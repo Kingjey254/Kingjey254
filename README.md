@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremiah Maina
 - 👀 I’m interested in Data Science and analysis
-- 🌱 I’m currently learning at Mount Kenya University (Bsc.Statistics)
+- 🌱 I’m currently a finalist at Mount Kenya University (Bsc.Statistics) 
 - 💞️ I’m looking to collaborate on Data Scuence, Data analysis and Quantitative finance
 - ⚡ Fun fact: Both Success and Failure have 7 letters.
 
