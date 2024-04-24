@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremiah Maina,
-- 👀 I’m interested in Data Science and analysis
+- 👀 I’m interested in Quantitative Finance, Data Science and analysis
 - 🌱 I am currently a finalist at Mount Kenya University (Bsc.Statistics) 
-- 💞️ I’m looking to collaborate on Data Science and Analysis.
+- 💞️ I’m looking to collaborate on Quantitative Finance projects, Data Science and Analysis.
 - ⚡ Fun fact: Determination is Success.
 
 <!---
